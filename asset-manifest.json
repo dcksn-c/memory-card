@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.3d9ae581.css",
+    "main.js": "/memory-card/static/js/main.ec269b01.js",
+    "static/media/zh-cn.ttf": "/memory-card/static/media/zh-cn.54a8212866e6ec1b1003.ttf",
+    "static/media/mona.webp": "/memory-card/static/media/mona.b0818272b1105ee17fc1.webp",
+    "static/media/klee.webp": "/memory-card/static/media/klee.a6a2d1654882950d2866.webp",
+    "static/media/ayato.webp": "/memory-card/static/media/ayato.8dca960e3d18ed56ce85.webp",
+    "static/media/kokomi.webp": "/memory-card/static/media/kokomi.5862cbfb64b2235fb807.webp",
+    "static/media/background.webp": "/memory-card/static/media/background.58490df45bee77995cbe.webp",
+    "static/media/keqing.webp": "/memory-card/static/media/keqing.7e600779c8c9ed042319.webp",
+    "static/media/sara.webp": "/memory-card/static/media/sara.14d5887d3cab5f06552b.webp",
+    "static/media/ganyu.webp": "/memory-card/static/media/ganyu.2c33c936bf38a81275af.webp",
+    "static/media/yoimiya.webp": "/memory-card/static/media/yoimiya.7dfa08cb0bfabae874a7.webp",
+    "static/media/ningguang.webp": "/memory-card/static/media/ningguang.be935d804097443feb87.webp",
+    "static/media/xingqiu.webp": "/memory-card/static/media/xingqiu.e256d820b5045593fef9.webp",
+    "static/media/chongyun.webp": "/memory-card/static/media/chongyun.f025fe6011eef4b0b3a9.webp",
+    "static/media/xiangling.webp": "/memory-card/static/media/xiangling.62c824815faa0cdcb1e9.webp",
+    "index.html": "/memory-card/index.html",
+    "main.3d9ae581.css.map": "/memory-card/static/css/main.3d9ae581.css.map",
+    "main.ec269b01.js.map": "/memory-card/static/js/main.ec269b01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d9ae581.css",
+    "static/js/main.ec269b01.js"
+  ]
+}
