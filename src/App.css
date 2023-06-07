@@ -14,8 +14,9 @@
   flex-direction: column;
   width: 100vw;
   height: 100vh;
-  background: url('./images/background.webp') no-repeat;
+  background: url('./images/background.png') no-repeat;
   background-size: cover;
+  background-position-y: -40px ;
 }
 
 .header {
